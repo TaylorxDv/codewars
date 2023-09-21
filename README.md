@@ -1,1 +1,1 @@
-# Codewars python
+# Codewars Challenges
